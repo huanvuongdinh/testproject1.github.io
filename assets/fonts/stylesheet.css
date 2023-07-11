@@ -1,0 +1,125 @@
+@font-face {
+  font-family: "Office Code Pro";
+  src: url("office-code-pro/OfficeCodePro-BoldItalic.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodePro-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro";
+  src: url("office-code-pro/OfficeCodePro-Light.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodePro-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro";
+  src: url("office-code-pro/OfficeCodePro-Bold.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodePro-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro";
+  src: url("office-code-pro/OfficeCodePro-MediumItalic.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodePro-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro";
+  src: url("office-code-pro/OfficeCodePro-LightItalic.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodePro-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro";
+  src: url("office-code-pro/OfficeCodePro-Medium.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodePro-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro D";
+  src: url("office-code-pro/OfficeCodeProD-Bold.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodeProD-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro";
+  src: url("office-code-pro/OfficeCodePro-Regular.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodePro-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro";
+  src: url("office-code-pro/OfficeCodePro-RegularItalic.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodePro-RegularItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro D";
+  src: url("office-code-pro/OfficeCodeProD-BoldItalic.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodeProD-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro D";
+  src: url("office-code-pro/OfficeCodeProD-Light.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodeProD-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro D";
+  src: url("office-code-pro/OfficeCodeProD-RegularItalic.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodeProD-RegularItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro D";
+  src: url("office-code-pro/OfficeCodeProD-Regular.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodeProD-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Office Code Pro D";
+  src: url("office-code-pro/OfficeCodeProD-LightItalic.woff2") format("woff2"),
+    url("office-code-pro/OfficeCodeProD-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
